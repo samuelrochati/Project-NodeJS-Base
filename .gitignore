@@ -1,0 +1,11 @@
+node_modules
+
+# Build
+dist
+
+#Env
+.env
+.env.example
+
+#Env Config
+config.js
